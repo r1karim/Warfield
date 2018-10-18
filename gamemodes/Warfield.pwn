@@ -6,7 +6,6 @@
 */
 
 #include <a_samp>
-#include <crashdetect>
 #include <AFkill.inc>
 #include <AntiSpam.inc>
 #include <AntiSba.inc>
